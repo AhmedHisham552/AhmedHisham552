@@ -7,9 +7,6 @@
 <a target="_blank" href="https://www.gitlab.com/ahmedhisham552">
   <img align="left" alt="Gitlab" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" />
 </a>
-<a target="_blank" href="mailto:ahisham360@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" />
-</a>
 
 <br>
 <br>
