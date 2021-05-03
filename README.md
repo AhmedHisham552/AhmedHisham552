@@ -1,7 +1,7 @@
 ## Ahmed Hisham
 
 <a target="_blank" href="https://www.linkedin.com/in/ahmedhisham552">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://icon-library.com/images/official-linkedin-icon-png/official-linkedin-icon-png-20.jpg" />
 </a>
 
 <a target="_blank" href="https://www.gitlab.com/ahmedhisham552">
