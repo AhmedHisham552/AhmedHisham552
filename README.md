@@ -1,6 +1,5 @@
 ## Ahmed Hisham
 
-## About me
 I am a highly motivated computer engineering student who is willing to learn, seek to achieve a high standard in whatever work I undertake and able to adapt quickly to any environment I am placed in.
 
 ## 🔗 Social links
