@@ -1,4 +1,4 @@
-## Youssef Walid
+## Ahmed Hisham
 
 <a target="_blank" href="https://www.linkedin.com/in/ahmedhisham552">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -18,7 +18,7 @@ I am a highly motivated computer engineering student who is willing to learn, se
 
 ## 📝 Resume 
 <a href="https://drive.google.com/file/d/1M90z1HfKp-RiS1u6xfGHy3-DCLbSLy5D/view" type="application/pdf">
-  <img src="https://imgur.com/OiPFYmd" alt="Ahmed Hisham | Resume">
+  <img src="https://imgur.com/OiPFYmd.png" alt="Ahmed Hisham | Resume">
 </a>
 
 ## 🛠 Technologies and languages
