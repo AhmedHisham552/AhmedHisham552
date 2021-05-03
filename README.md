@@ -36,3 +36,4 @@ I am a highly motivated computer engineering student who is willing to learn, se
 <code><img height="20" alt="golang" src="https://i.imgur.com/1jt4iPR.png"></code>
 <code><img height="20" alt="git" src="https://i.imgur.com/cSu4jhA.png"></code>
 <code><img height="20" alt="ruby" src="https://www.clipartmax.com/png/middle/238-2382091_keyhole-markup-language-icons-ruby-language-ruby-icon.png"></code>
+<code><img height="20" alt="rails" src="https://avatars.githubusercontent.com/u/4223"></code>
