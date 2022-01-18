@@ -7,17 +7,13 @@ I am a highly motivated computer engineering student who is willing to learn, se
   <img align="left" alt="LinkedIn" width="22px" src="https://icon-library.com/images/official-linkedin-icon-png/official-linkedin-icon-png-20.jpg" />
 </a>
 
-<a target="_blank" href="https://www.gitlab.com/ahmedhisham552">
-  <img align="left" alt="Gitlab" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" />
-</a>
-
 <br>
 <br>
 
 
 
 ## 📝 Resume 
-<a href="https://drive.google.com/file/d/1M90z1HfKp-RiS1u6xfGHy3-DCLbSLy5D/view" type="application/pdf">
+<a href="https://drive.google.com/file/d/1n8JHUe-IU77adXTS3iCwCBqMTF5vK7iz/view?usp=sharing" type="application/pdf">
   <img src="https://imgur.com/OiPFYmd.png" alt="Ahmed Hisham | Resume">
 </a>
 
