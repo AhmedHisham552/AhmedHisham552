@@ -2,7 +2,7 @@
 
 I am a highly motivated computer engineering student who is willing to learn, seek to achieve a high standard in whatever work I undertake and able to adapt quickly to any environment I am placed in.
 
-## 🔗 Social links
+## 🔗 Social accounts
 <a target="_blank" href="https://www.linkedin.com/in/ahmedhisham552">
   <img align="left" alt="LinkedIn" width="22px" src="https://icon-library.com/images/official-linkedin-icon-png/official-linkedin-icon-png-20.jpg" />
 </a>
