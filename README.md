@@ -14,7 +14,7 @@ I am a highly motivated computer engineering student who is willing to learn, se
 
 ## 📝 Resume 
 <a href="https://drive.google.com/file/d/1n8JHUe-IU77adXTS3iCwCBqMTF5vK7iz/view?usp=sharing" type="application/pdf">
-  <img src="https://imgur.com/s7Wt3Xk" alt="Ahmed Hisham | Resume">
+  <img src="https://i.imgur.com/s7Wt3Xk.png" alt="Ahmed Hisham | Resume">
 </a>
 
 ## 🛠 Technologies and languages
