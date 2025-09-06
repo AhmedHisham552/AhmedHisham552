@@ -1,6 +1,6 @@
 ## Ahmed Hisham
 
-I am a highly motivated computer engineering student who is willing to learn, seek to achieve a high standard in whatever work I undertake and able to adapt quickly to any environment I am placed in.
+Outcome-driven Software Engineer with 5+ years of experience designing and delivering scalable, event-driven backend systems and cloud-native SaaS applications. Specialized in Ruby on Rails, PostgreSQL, AWS, and REST/GraphQL API architecture. Proven track record in building infrastructure for high-throughput messaging, leading third-party integrations, and optimizing application performance. Adept at collaborating cross-functionally, driving technical initiatives, and mentoring junior engineers in agile environments.
 
 ## 🔗 Social accounts
 <a target="_blank" href="https://www.linkedin.com/in/ahmedhisham552">
@@ -13,8 +13,8 @@ I am a highly motivated computer engineering student who is willing to learn, se
 
 
 ## 📝 Resume 
-<a href="https://drive.google.com/file/d/1n8JHUe-IU77adXTS3iCwCBqMTF5vK7iz/view?usp=sharing" type="application/pdf">
-  <img src="https://i.imgur.com/s7Wt3Xk.png" alt="Ahmed Hisham | Resume">
+<a href="https://drive.google.com/file/d/1ZT3MIEwZ5nRTZeID4lCOykinFxUS80AY/view?usp=sharing" type="application/pdf">
+  <img src="https://i.ibb.co/7xhnzhsH/resume-fv-1-page-0001.jpg" alt="Ahmed Hesham | Resume" border="0">
 </a>
 
 ## 🛠 Technologies and languages
